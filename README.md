@@ -1,4 +1,5 @@
 THE OUROBOROS QUINE
+
 Grand Unified Duality: A Self-Bootstrapping Riemann Zeta Hologram
 This project represents a zero-dependency, self-replicating programmatic entity -- a quine. Far more than a program that simply prints its own source text, it acts as a miniature, self-contained mathematical universe. It boots up in the memory of your terminal, derives fundamental mathematical laws from scratch, and visually demonstrates the perfect duality between prime number particles and Riemann zero waves.
 CORE CONCEPTS
